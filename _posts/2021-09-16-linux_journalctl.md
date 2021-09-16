@@ -5,5 +5,5 @@
 
 #### 아래와 같이 줄바꿈을 해줘서 끝에 로그를 볼 수 있게 된다
 
-![image-20210916190249889](C:\Users\jihun\AppData\Roaming\Typora\typora-user-images\image-20210916190249889.png)
+![20210916_190623](C:\Users\jihun\Desktop\image\20210916_190623.png)
 
